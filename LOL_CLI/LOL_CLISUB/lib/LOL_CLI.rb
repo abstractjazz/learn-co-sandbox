@@ -1,8 +1,5 @@
 require_relative "./LOL_CLI/version"
 
-module LOLCLI
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative './LOL_CLI/cli'
 
-require "./LOL_CLI/CLICLASS"
+
