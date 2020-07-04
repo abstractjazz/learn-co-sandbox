@@ -1,0 +1,8 @@
+puts "How is dog today?"
+dog = gets.strip
+if dog == "hungry" 
+  puts "refilling food bowl."
+elsif dog == "thirsty"
+puts "refilling water bowl."
+else puts "Reading newspaper."
+end 
