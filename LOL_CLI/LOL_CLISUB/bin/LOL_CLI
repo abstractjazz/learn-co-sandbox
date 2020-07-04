@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "./lib/LOL_CLI"
+
+LOL_CLI::CLI.new.call
