@@ -1,3 +1,0 @@
-#!/usr/bin/env ruby
-
-LOL_CLI::CLI.new.call 
