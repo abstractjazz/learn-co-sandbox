@@ -1,5 +1,5 @@
 require_relative "./LOL_CLI/version"
 
-require_relative './LOL_CLI/cli'
+require_relative "./LOL_CLI/cli"
 
 
